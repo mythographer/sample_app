@@ -21,4 +21,7 @@
 .byebug_history
 
 # Ignore Spring files.
-# /spring/*.pid
+/spring/*.pid
+
+# Ignore uploaded test images.
+/public/uploads
